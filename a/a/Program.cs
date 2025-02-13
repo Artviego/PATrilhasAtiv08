@@ -18,7 +18,7 @@ namespace a
             }
             else
             {
-                Console.WriteLine("Entrada inválida! Tente novamente.");
+                Console.WriteLine("Entrada inválida, tente novamente.");
                 Console.Clear();
             }
             Console.ReadKey(true);
